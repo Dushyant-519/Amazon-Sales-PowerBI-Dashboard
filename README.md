@@ -18,4 +18,5 @@ This project presents an interactive Amazon Sales Dashboard built using Power BI
 
 ## Dashboard Preview
 
-![Dashboard](Amazon_Sales_PowerBI_Dashboard.png)
+![Dashboard](amazon sale dashboard.pbix)
+
