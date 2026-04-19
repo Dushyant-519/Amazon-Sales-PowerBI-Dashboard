@@ -17,7 +17,7 @@ This project presents an interactive Amazon Sales Dashboard built using Power BI
 * Data Visualization
 
 ## Dashboard Preview
-<img width="757" height="416" alt="Screenshot 2026-04-15 233749" src="https://github.com/user-attachments/assets/16fab392-a0f9-416d-89a6-eb02c9d64389" />
+<img width="753" height="427" alt="Screenshot 2026-04-15 232713" src="https://github.com/user-attachments/assets/661cb214-f3a3-4aa3-9e0a-9a002d36a562" />
 
 
 
